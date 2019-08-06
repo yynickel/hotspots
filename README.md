@@ -1,6 +1,14 @@
 # Hotspots
 
-Hotspots: A data aggregration webportal for people new to Vancouver and
+Hotspots is a web tool for finding the hottest locales in the Vancouver Downtown area.
+
+Hosted on Netlify and Heroku at (https://hotspots.netlify.com)
+
+Built with Nima Boscarino's React-Rails boilerplate.
+
+## Detailed Description
+
+Hotspots is a data aggregration webportal for people new to Vancouver and
 desire to socialize and explore the most popular restaurants, night clubs or bars.
 We source our data from Yelp and Google and display the information to our
 users in an interesting and innovative way via an interactive heatmap. Each
