@@ -1,4 +1,13 @@
-# React + Rails No-Fluff Boilerplate
+# Hotspots
+
+Hotspots: A data aggregration webportal for people new to Vancouver and
+desire to socialize and explore the most popular restaurants, night clubs or bars.
+We source our data from Yelp and Google and display the information to our
+users in an interesting and innovative way via an interactive heatmap. Each
+location near the core of Vancouver is scored and sorted in our database with an
+algorithmic score based on it's popularity and review rating. Users can plan their
+night out and hit all the hottest locales in the city with our informative line chart
+plotting out at which points in their night their stops will be the busiest.
 
 A boilerplate project for anyone interested in making a project that uses React and Rails.
 
