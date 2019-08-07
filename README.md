@@ -19,12 +19,6 @@ algorithmic score based on it's popularity and review rating. Users can plan the
 night out and hit all the hottest locales in the city with our informative line chart
 plotting out at which points in their night their stops will be the busiest.
 
-A boilerplate project for anyone interested in making a project that uses React and Rails.
-
-Note! This boilerplate has _no fluff_! That means that there's nothing set up for you to do authentication stuff, there's no Redux stuff, and there's no React Router stuff.
-
-The main important bit is that the React project has `proxy` set to `localhost:3001` in the `package.json` file. Take a look!
-
 ## Features
 
 On the front page, users are greeted with slides showing
