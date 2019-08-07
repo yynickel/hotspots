@@ -23,7 +23,7 @@ plotting out at which points in their night their stops will be the busiest.
 
 On the front page, users are greeted with slides showing
 the hottest places to be in Vancouver. Our hot scores are calculated using a combination of how busy a place gets and
-how well recieved a place is.
+how well-recieved a place is.
 
 Gif Here
 
@@ -34,13 +34,13 @@ that the data is pulled from, or use the drop-down menus to set the time.
 Gif Here
 
 On the left you can see a list of all the neighbourhoods sorted by the hot score. Expand the neighbourhood and get a list of
-restaurants, clubs, or bars in that neighbourhood. Clicking a on a place will pop up a panel of all the restaurants information.
+restaurants, clubs, or bars in that neighbourhood. Clicking on a place will pop up a panel of all the restaurant's information.
 You can then add these locations to your trip.
 
 Gif Here
 
 After you've added a few places to your trip, you can click Generate Night to see more data on these places. This part of the website
-has a recommended time for when you should arrive to maximize the ammount of people you meet. You can also see a bargraph here that
+has a recommended time for when you should arrive to maximize the amount of people you meet. You can also see a bar graph here that
 represents how busy each location you've chosen gets at a particular point in time.
 
 Gif Here
