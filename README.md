@@ -23,16 +23,30 @@ Note! This boilerplate has _no fluff_! That means that there's nothing set up fo
 
 The main important bit is that the React project has `proxy` set to `localhost:3001` in the `package.json` file. Take a look!
 
-## Hall of Fame
+## Features
 
-Here are some projects that have been built using this boilerplate.
+On the front page, users are greeted with slides showing
+the hottest places to be in Vancouver. Our hot scores are calculated using a combination of
 
-- [latercart](https://github.com/bonitac/latercart)
-- [Cards-Against-the-Internet](https://github.com/csx773/Cards-Against-the-Internet)
-- [Jetify](https://github.com/shadeying/Jetify)
-- [watchpoll](https://github.com/grey275/watchpoll)
-- [StartDuck](https://github.com/JerChuang/StartDuck)
-- [Change-App](https://github.com/ZHShang/Change-App)
+Gif Here
+
+Going down to the map, you can see the map. The colored portions represent a heatmap, with the green areas of the city
+being the least popular places to be, and the red areas being the most popular. Use the slider to adjust the time
+that the data is pulled from, or use the drop-down menus to set the time.
+
+Gif Here
+
+On the left you can see a list of all the neighbourhoods sorted by the hot score. Expand the neighbourhood and get a list of
+restaurants, clubs, or bars in that neighbourhood. Clicking a on a place will pop up a panel of all the restaurants information.
+You can then add these locations to your trip.
+
+Gif Here
+
+After you've added a few places to your trip, you can click Generate Night to see more data on these places. This part of the website
+has a recommended time for when you should arrive to maximize the ammount of people you meet. You can also see a bargraph here that
+represents how busy each location you've chosen gets at a particular point in time.
+
+Gif Here
 
 ## Using the boilerplate
 
