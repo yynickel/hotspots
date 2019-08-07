@@ -4,7 +4,9 @@ Hotspots is a web tool for finding the hottest locales in the Vancouver Downtown
 
 Hosted on Netlify and Heroku at https://hotspots.netlify.com
 
-Built with Nima Boscarino's React-Rails boilerplate.
+Built in under 2 weeks with [Nima Boscarino](https://github.com/NimaBoscarino)'s [React-Rails boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate).
+
+By [Nick Yu](https://github.com/yynickel), [Steve Graves](https://github.com/sdsog), and [Bobby Lau](https://github.com/bobbyhplau)
 
 ## Detailed Description
 
@@ -75,6 +77,15 @@ Start the front end by going into another terminal then `cd` into `client`. Run 
 
 In your browser you should now be met with the home screen.
 
+## Next Steps
+
+Will we continue to work on this? Nobody knows. Here are some of the things we think could be improved though.
+
+- Map not have to re-load every time we change the time via slider.
+- If a place is closed during a particular time it shouldn't show on our list.
+- The plan for the night should be stored on the session and able to be shared.
+- Somehow being able to refresh the data via the front end
+
 ## Contact
 
-Please contact me at `nima@lighthouselabs.com` if you have any questions or requests, or post an issue to this repo.
+If you have any questions or requests please post an issue to this repo.
