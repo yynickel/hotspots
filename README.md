@@ -54,7 +54,7 @@ located in the root folder. The frontend env file is located in the client folde
 
 To update the data on how popular places get, go to the lib/populartimes folder. Use the command `pip3 install` to install all the relevant python libraries. We split Vancouver up into a 10 x 10 map like so...
 
-Picture of the map of Vancouver split by 10 x 10.
+![10x10](tenbyten.png)
 
 The map is further split based on how busy we anticipate where Vancouver is busiest to save on API calls. Update the popular
 times data by going to lib/populartimes and use the command `ruby rubyside3.rb 3 3 5 5` to get the data from square 3, 5.
