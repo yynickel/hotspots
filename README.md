@@ -31,19 +31,19 @@ Going down to the map, you can see the map. The colored portions represent a hea
 being the least popular places to be, and the red areas being the most popular. Use the slider to adjust the time
 that the data is pulled from, or use the drop-down menus to set the time.
 
-Gif Here
+![Gif2](https://thumbs.gfycat.com/SmoggyBestHerculesbeetle-size_restricted.gif)
 
 On the left you can see a list of all the neighbourhoods sorted by the hot score. Expand the neighbourhood and get a list of
 restaurants, clubs, or bars in that neighbourhood. Clicking on a place will pop up a panel of all the restaurant's information.
 You can then add these locations to your trip.
 
-Gif Here
+![Gif3](https://thumbs.gfycat.com/AdorableWeakConey-size_restricted.gif)
 
 After you've added a few places to your trip, you can click Generate Night to see more data on these places. This part of the website
 has a recommended time for when you should arrive to maximize the amount of people you meet. You can also see a bar graph here that
 represents how busy each location you've chosen gets at a particular point in time.
 
-Gif Here
+![Gif4](https://thumbs.gfycat.com/ApprehensiveWastefulCrossbill-size_restricted.gif)
 
 ## Running this project
 
