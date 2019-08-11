@@ -25,7 +25,7 @@ On the front page, users are greeted with slides showing
 the hottest places to be in Vancouver. Our hot scores are calculated using a combination of how busy a place gets and
 how well-recieved a place is.
 
-Gif Here
+![Gif1](https://gfycat.com/pointedlimitedarchaeocete)
 
 Going down to the map, you can see the map. The colored portions represent a heatmap, with the green areas of the city
 being the least popular places to be, and the red areas being the most popular. Use the slider to adjust the time
